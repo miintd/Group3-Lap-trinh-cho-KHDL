@@ -8,3 +8,12 @@ This project develops a product recommendation system for an ecommerce platform.
 - **Hybrid Approach**: Combine collaborative and content-based filtering for more robust recommendations.
 - **Multi-Modal Deep Learning**: Leverages product images, text descriptions, and user-item interactions using a sophisticated neural network architecture.
 - **Web Interface**: A web application built with Sreamlit for easy interaction and visualization of recommendations.
+### General Workflow
+## 2. Task Allocation
+- Nguyễn Đức Quang
+  - Assign task for team members
+- Nguyễn Thị Diễm My
+- Nguyễn Trung Tùng
+- Lê Cẩm Tú
+- Đào Minh Dũng
+- Phạm Thu Hường
