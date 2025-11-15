@@ -21,7 +21,7 @@ This project develops a product recommendation system for an ecommerce platform.
 - Lê Cẩm Tú:
 - Đào Minh Dũng:
 - Phạm Thu Hường:
-## Instructions for installing and running the program
+## 3. Instructions for installing and running the program
 ### Prerequisites
 - Python 3.
 - PyTorch
